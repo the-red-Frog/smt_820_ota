@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1680677488,
-      "filename": "lineage-19.1-20230405-UNOFFICIAL-gts3lwifi.zip",
-      "id": "7bc7ee265819ad8926e7c982523b80326b7d8be2297f673933138b577d799321",
+      "datetime": 1685866710,
+      "filename": "lineage-19.1-20230604-UNOFFICIAL-gts3lwifi.zip",
+      "id": "7bc7ee265819ad8926e7c982523b80326b7d8be2297f673933138b577d799322",
       "romtype": "unofficial",
-      "size": 736015722,
-      "url": "https://example.com/ota-package.zip",
+      "size": 737033556,
+      "url": "https://github.com/the-red-Frog/smt_820_ota/blob/lineage-19.1/release/lineage-19.1-20230604-UNOFFICIAL-gts3lwifi.zip",
       "version": "19.1"
     }
   ]
